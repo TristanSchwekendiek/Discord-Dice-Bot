@@ -1,4 +1,4 @@
-This is a project I made as a fun personal project.  I needed a way to roll dice effectively and efficiently, so I designed this bot to roll dice with as few steps as possible.
+This is a project I made as a fun personal project.  The dice bot I was using functioned properly, but used awkward syntax that made rolling dice in quick succession feel jarring.  I needed a way to roll dice effectively and efficiently, so I designed this bot to roll dice with as few steps as possible.
 
 Example Usage:
 
